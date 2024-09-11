@@ -1,6 +1,6 @@
 # XXX project
 
-## Live demo: [Click here](https://stasytyapkina.github.io/demo-table/#/main)
+
 
 ### `Getting Started`
 
