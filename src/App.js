@@ -12,7 +12,7 @@ export const App = () => {
         <Route exact path={"/"} element={<Navigate to={"/main"} />} />
         <Route path="/main" element={<UserInfoPage />} />
         <Route path="/user/:id" element={<UserDetailPage />} />
-        <Route path="*" element={<NotFoundPage />} />
+        {/**<Route path="*" element={<NotFoundPage />} />*/}
       </Routes>
       <Footer />
     </div>
